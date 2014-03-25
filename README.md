@@ -1,5 +1,3 @@
-fortmatic-express [![Live Demo](http://usekite.com/live-demo.png)](http://usekite.com/deploy/17958681)
+fortmatic-express [![Live Demo](http://usekite.com/demo-button.png)](http://usekite.com/deploy/17958681)
 =================
 TEST
-
-[![Live Demo](http://usekite.com/live-demo.png)](http://usekite.com/deploy/17958681)
