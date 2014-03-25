@@ -1,3 +1,3 @@
-fortmatic-express [![Build Status](https://travis-ci.org/paypal/JavaScriptButtons.png?branch=master)](https://travis-ci.org/paypal/JavaScriptButtons)
+fortmatic-express [![Live Demo](http://usekite.com/live-demo.png)](http://usekite.com/deploy/17958681)
 =================
 TEST
